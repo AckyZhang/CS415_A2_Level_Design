@@ -1,3 +1,6 @@
+# ignore Log
+/Saved/Log
+
 # Do not ignore git files in the root of the repo.
 !/.git*
 
